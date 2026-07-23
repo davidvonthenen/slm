@@ -1,3 +1,7 @@
+# Copyright (c) 2026 David vonThenen. All rights reserved.
+# Restricted distribution. Unauthorized copying or hosting of this file via any medium
+# is strictly prohibited. Proprietary and confidential.
+
 # PYTORCH_MPS_HIGH_WATERMARK_RATIO=0.0 PYTORCH_ENABLE_MPS_FALLBACK=1 python ner_train.py
 
 import os
