@@ -1,3 +1,7 @@
+# Copyright (c) 2026 David vonThenen. All rights reserved.
+# Restricted distribution. Unauthorized copying or hosting of this file via any medium
+# is strictly prohibited. Proprietary and confidential.
+
 # ner
 chardet==7.4.3
 nltk==3.9.4
