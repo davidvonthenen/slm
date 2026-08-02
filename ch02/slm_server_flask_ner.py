@@ -74,7 +74,7 @@ LLM_SERVER_MODEL = "local-llm"
 
 # Server
 SERVER_HOST = "0.0.0.0"
-SERVER_PORT = 8000
+SERVER_PORT = 8001
 
 # Transparent NER + DuckDuckGo enrichment. These are internal constants, not API flags.
 NER_BASE_MODEL_NAME = "bert-base-uncased"
