@@ -32,7 +32,7 @@ def _resolve_base_url() -> str:
     port = os.getenv("EXAMPLE_PORT")
     if not host or not port:
         host = host or "127.0.0.1"
-        port = port or "8001"
+        port = port or "8000"
     if host in ("0.0.0.0", "::"):
         host = "127.0.0.1"
     return f"http://{host}:{port}/v1"

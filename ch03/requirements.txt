@@ -1,0 +1,33 @@
+# Copyright (c) 2026 David vonThenen. All rights reserved.
+# Restricted distribution. Unauthorized copying or hosting of this file via any medium
+# is strictly prohibited. Proprietary and confidential.
+
+# opensearch
+opensearch-py>=2.4
+
+# mcp
+mcp==2.0.0
+
+# ai / ml
+numpy>=1.26
+sentence-transformers>=3.0
+tqdm>=4.66
+
+# inference
+python-dotenv==1.1.1
+llama-cpp-python==0.3.20
+
+# apple support
+mlx==0.31.1
+mlx-lm==0.31.2
+mlx-metal==0.31.1
+
+# api support
+openai==2.43.0
+flask>=3.1.3
+requests==2.32.3
+
+# helper
+jsonschema>=4.18,<5
+tavily-python==0.7.27
+ddgs==9.14.4
