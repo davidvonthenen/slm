@@ -44,11 +44,11 @@ python finetune.py
 
 Download these prebuild models below and skip to `Step 3`. Note these fine-tuned safetensor models are quite large and will take some time to download. Total download size is 20GB.
 
-PRIMARY DOWNLOAD:
-XXXX
+**PRIMARY DOWNLOAD:**  
+https://drive.google.com/file/d/1xZaZttqhkKaSWM8OrH6BMizZ5l3WrKWY/view?usp=drive_link
 
-BACKUP DOWNLOAD:
-XXXX
+**BACKUP DOWNLOAD:**  
+https://drive.google.com/file/d/1kJQ4jy2kcHG3Adjgy_A6jUZsMdlNcY_g/view?usp=drive_link
 
 ### Step 3: Benchmark the Specialist Model
 

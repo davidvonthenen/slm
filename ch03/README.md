@@ -243,11 +243,11 @@ Each response contains `retrieval_trace_id` and `retrieval_trace`. The saved tra
 
 When no expected source labels are supplied, precision and recall are `null`. Similarity scores remain available as a retrieval signal, but they are not the same as human relevance judgments.
 
-
 ## Additional Resources
 
 Here are some additional resources for subjects the chapter assumes you are familiar with, but might need a refresher on.
 
-### TODO
+### RAG: Data preparation for chunking
 
-- [TODO](TODO)
+- [The Ultimate Guide to Chunking Strategies for RAG Applications](https://community.databricks.com/t5/technical-blog/the-ultimate-guide-to-chunking-strategies-for-rag-applications/ba-p/113089)
+- [Chunking Strategies for RAG Systems](https://github.com/deepshamenghani/chunking_strategies_langchain)
