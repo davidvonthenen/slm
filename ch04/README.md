@@ -12,11 +12,3 @@ The two tasks with in this chapter are:
 ## Additional Resources
 
 Here are some additional resources for subjects the chapter assumes you are familiar with, but might need a refresher on.
-
-### RAG: Data preparation for chunking
-
-- [TODO](TODO)
-
-### RAG: Data preparation for chunking
-
-- [TODO](TODO)
